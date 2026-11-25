@@ -5,7 +5,7 @@ Terpene synthases (TPS) are a key family of enzymes responsible for generating t
 # 🔗 References
 
 - 📃 NeurIPS 2025 and MLSB 2025 Workshop Paper: https://arxiv.org/pdf/2512.08772
-- 💻 GitHub repository: https://github.com/colorfulcereal/TpsGPT/e
+- 💻 GitHub repository: https://github.com/colorfulcereal/TpsGPT/
 
 
 
